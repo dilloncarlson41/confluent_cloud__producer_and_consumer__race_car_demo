@@ -1,0 +1,18 @@
+{
+    "type": "record",
+    "name": "race_car_detail__value",
+    "fields": [
+        {
+            "name": "number",
+            "type": "int"
+        },
+        {
+            "name": "color",
+            "type": "string"
+        },
+        {
+            "name": "make",
+            "type": "string"
+        }
+    ]
+}

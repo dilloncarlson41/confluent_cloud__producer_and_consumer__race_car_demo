@@ -1,0 +1,10 @@
+{
+    "type": "record",
+    "name": "race_car_detail__key",
+    "fields": [
+        {
+            "name": "car_id",
+            "type": "string"
+        }     
+    ]
+}
